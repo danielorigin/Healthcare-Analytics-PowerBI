@@ -224,7 +224,7 @@ Dimension Tables
 
 
 <img width="1411" height="789" alt="Hospital overview" src="https://github.com/user-attachments/assets/c5b70f6d-9e0f-4345-b970-cefe07fcf95f" />
-dashbord_images
+[dashbord_images](https://github.com/danielorigin/Healthcare-Analytics-PowerBI/tree/d289732ddf486eff4a67da36e07a07474bc3a30d/dashbord_images)
 Shows
 
 

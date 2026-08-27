@@ -1,0 +1,21 @@
+{
+  "name": "Healthcare Analytics Professional",
+  "dataColors": [
+    "#2F6B8A",
+    "#3A8D8C",
+    "#28536B",
+    "#5C9FA8",
+    "#7FB8BE",
+    "#A7C7C7",
+    "#D97706",
+    "#2E7D5B",
+    "#C94C4C",
+    "#E09F3E"
+  ],
+  "background": "#F4F8FA",
+  "foreground": "#1F2937",
+  "tableAccent": "#2F6B8A",
+  "good": "#2E7D5B",
+  "neutral": "#E09F3E",
+  "bad": "#C94C4C"
+}

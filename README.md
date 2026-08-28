@@ -78,27 +78,28 @@ The Power BI solution provides interactive views for:
 
 1. **Executive Overview**
    
-![Executive Overview](dashboard_images/Dashboard%201-Executive%20Overview.png)
+![Power BI Executive Overview dashboard summarizing healthcare operations, clinical activity, and financial performance. KPI cards display patient records, average age, average billing, average length of stay, and total admission, while charts show admission trends and related measures. Filters and data visualizations surround the summary in a structured, analytical report layout.](dashboard_images/Dashboard%201-Executive%20Overview.png)
 
 2. **Patient Demographics**
    
-![Patient Demographics](dashboard_images/Dashboard%202-Patient%20Demographics.png)
+![Power BI Patient Demographics dashboard showing how the healthcare population is distributed by age, gender, and other demographic categories. Summary cards, charts, and filters present patient counts and demographic comparisons in a structured report layout for objective population analysis.](dashboard_images/Dashboard%202-Patient%20Demographics.png)
 
 3. **Medical Conditions & Outcomes**
 
-![Medical Condition & Outcomes](dashboard_images/Dashboard%203%20-%20Medical%20Condition%20%26%20Outcomes.png)
+![Power BI Medical Conditions and Outcomes dashboard comparing diagnoses, patient counts, billing, and clinical outcome measures. Condition-level charts and KPI summaries identify differences among medical conditions in a structured healthcare analytics report with interactive filters.](dashboard_images/Dashboard%203-Medical%20Condition%20%26%20Outcomes.png)
 
 4. **Financial & Billing Analysis**
 
-![Financial & Billing Analysis](dashboard_images/Dashboard%204%20-%20Financial%20%26%20Billing%20Analysis.png)
+![Power BI Financial and Billing Analysis dashboard showing healthcare charges, payments, billing by medical condition, and billing trends over time. KPI cards, charts, and filters organize financial measures and comparisons in a structured report layout for objective revenue and payment analysis.](dashboard_images/Dashboard%204-Financial%20%26%20Billing%20Analysis.png)
 
 5. **Admission & Operation Analysis**
 
-![Admission & Operational Analysis](dashboard_images/Dashboard%205-%20Admission%20%26%20Operation%20Analysis.png)
+![Power BI Admission and Operation Analysis dashboard showing elective, emergency, and urgent admission types, admission and discharge activity, length of stay, and provider or hospital workload. Trend charts, comparisons, KPI summaries, and filters support structured analysis of healthcare operations and resource use.](dashboard_images/Dashboard%205-Admission%20%26%20Operation%20Analysis.png)
 
 6. **Diagnosis Analysis**
 
-![Diagnosis Analysis](dashboard_images/Dashboard%206-%20Diagnosis%20Analysis.png)
+![Power BI Diagnosis Analysis dashboard showing the frequency and distribution of patient diagnoses across the healthcare dataset. Charts and summary metrics compare diagnosis patterns, while interactive filters support focused analysis in a structured clinical reporting environment.](dashboard_images/Dashboard%206-Diagnosis%20Analysis.png)
+
 Users can explore the data through **filters, KPIs, trends, category comparisons, and interactive visualizations**.
 
 ## 💡 Business Recommendations

@@ -77,12 +77,28 @@ Developed KPIs and analytical measures covering:
 The Power BI solution provides interactive views for:
 
 1. **Executive Overview**
-2. **Patient Demographicss**
+   
+![Executive Overview](dashboard_images/Dashboard%201-Executive%20Overview.png)
+
+2. **Patient Demographics**
+   
+![Patient Demographics](dashboard_images/Dashboard%202-Patient%20Demographics.png)
+
 3. **Medical Conditions & Outcomes**
+
+![Medical Condition & Outcomes](dashboard_images/Dashboard%203%20-%20Medical%20Condition%20%26%20Outcomes.png)
+
 4. **Financial & Billing Analysis**
+
+![Financial & Billing Analysis](dashboard_images/Dashboard%204%20-%20Financial%20%26%20Billing%20Analysis.png)
+
 5. **Admission & Operation Analysis**
+
+![Admission & Operational Analysis](dashboard_images/Dashboard%205-%20Admission%20%26%20Operation%20Analysis.png)
+
 6. **Diagnosis Analysis**
 
+![Diagnosis Analysis](dashboard_images/Dashboard%206-%20Diagnosis%20Analysis.png)
 Users can explore the data through **filters, KPIs, trends, category comparisons, and interactive visualizations**.
 
 ## 💡 Business Recommendations
@@ -111,13 +127,29 @@ The analysis supports several potential actions:
 Healthcare-Analytics/
 │
 ├── data/
-│   └── healthcare_dataset.csv
+│   └──raw data
+         └── healthcare_dataset.csv
 │
 ├── python/
 │   └── data_analysis.py
 │
 ├── powerbi/
-│   └── healthcare_dashboard.pbix
+│   └── Healthcare Dataset Analysis.pbix
+│
+├── dashboard_images/
+    
+│   ├── dashboard 1-overview.png
+
+│   ├── dashboard 2-patient Demographics.png
+
+│   ├── dashboard 3-medical conditions & outcomes.png
+
+│   ├── dashboard 4-financial & billing analysis.png
+
+│   ├── dashboard 5-Admission & operation analysis.png
+
+│   └── dashboard 6-diagnosis.png
+
 │
 ├── reports/
 │   └── healthcare_analysis_report.pdf

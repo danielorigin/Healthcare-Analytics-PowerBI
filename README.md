@@ -108,15 +108,10 @@ Users can explore the data through **filters, KPIs, trends, category comparisons
 
 Explore the **Kaggle Notebook** for the Python-based analysis of the healthcare dataset. The notebook focuses on data cleaning, exploratory data analysis (EDA), statistical analysis, data quality checks, and visualizations to identify key patterns and insights within the healthcare data.
 
-**[View the Python Analysis on Kaggle]([https://www.kaggle.com/code/danielsowah123/healthcare-analytics])**
+**[View the Python Analysis on Kaggle](https://www.kaggle.com/code/danielsowah123/healthcare-analytics)**
 
-### 📊 Interactive Power BI Dashboard
 
-Explore the interactive **Healthcare Analytics Power BI Dashboard** to gain insights into patient demographics, medical conditions, admissions, billing, diagnoses, and other key healthcare performance indicators.
 
-Use the filters, slicers, and interactive visuals to explore trends, compare healthcare metrics, and identify patterns across different areas of the dataset.
-
-**[View the Interactive Power BI Dashboard]([your Power BI link])**
 
 
 ## 💡 Business Recommendations

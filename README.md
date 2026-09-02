@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes a healthcare dataset of **25,000+ patient records** to identify patterns in **patient demographics, medical conditions, admissions, length of stay, billing, insurance, and hospital performance**.
+This project analyzes a healthcare dataset of **40,000+ patient records** to identify patterns in **patient demographics, medical conditions, admissions, length of stay, billing, insurance, and hospital performance**.
 
 The project demonstrates an end-to-end analytics workflow, from **data cleaning with Python** to **data modelling, DAX analysis, and interactive dashboard development in Power BI**.
 
@@ -56,19 +56,19 @@ Developed KPIs and analytical measures covering:
 
 | KPI                           |     Result |
 | ----------------------------- | ---------: |
-| **Patient Records**           |     25,110 |
-| **Average Age**               | 51.8 years |
-| **Average Billing / Patient** |    $26,879 |
+| **Patient Records**           |     40,235 |
+| **Average Age**               | 51.3 years |
+| **Average Billing / Patient** |    $25,544 |
 | **Average Length of Stay**    |  15.5 days |
-| **Readmission Rate**          |       8.7% |
+| **Readmission Rate**          |     136.6% |
 | **Medical Conditions**        |          6 |
 
 ### 🔎 Key Insights
 
-* **Arthritis** was the most frequently recorded condition, with approximately **4.4K cases** and **$112M in billing**.
-* **Elective, emergency, and urgent admissions** were relatively balanced at approximately **8.1K–8.5K records** each.
+* **Arthritis** was the most frequently recorded condition, with approximately **6.8K cases** and **$286,14M in billing**.
+* **Elective, emergency, and urgent admissions** were relatively balanced at approximately **13.1K–13.6K records** each.
 * Longer **hospital stays were associated with higher billing**, highlighting an important operational and financial relationship.
-* **2020** recorded the highest reported billing at approximately **$132M**.
+* **2020** recorded the highest reported billing at approximately **$336M**.
 * **UnitedHealthcare and Medicare** represented the largest shares of insurance payments in the dashboard analysis.
 * Discharge activity declined significantly in **2024**, although the report notes that incomplete-year data may explain the reduction.
 
@@ -78,7 +78,7 @@ The Power BI solution provides interactive views for:
 
 1. **Executive Overview**
    
-![Power BI Executive Overview dashboard summarizing healthcare operations, clinical activity, and financial performance. KPI cards display patient records, average age, average billing, average length of stay, and total admission, while charts show admission trends and related measures. Filters and data visualizations surround the summary in a structured, analytical report layout.](dashboard_images/Dashboard%201-Executive%20Overview.png)
+![layout.](dashboard_images/Dashboard%201-Executive%20Overview.png)
 
 2. **Patient Demographics**
    
@@ -101,6 +101,23 @@ The Power BI solution provides interactive views for:
 ![Power BI Diagnosis Analysis dashboard showing the frequency and distribution of patient diagnoses across the healthcare dataset. Charts and summary metrics compare diagnosis patterns, while interactive filters support focused analysis in a structured clinical reporting environment.](dashboard_images/Dashboard%206-Diagnosis%20Analysis.png)
 
 Users can explore the data through **filters, KPIs, trends, category comparisons, and interactive visualizations**.
+
+## 🔗 Interactive Analysis & Dashboard
+
+### 🐍 Python Analysis — Kaggle Notebook
+
+Explore the **Kaggle Notebook** for the Python-based analysis of the healthcare dataset. The notebook focuses on data cleaning, exploratory data analysis (EDA), statistical analysis, data quality checks, and visualizations to identify key patterns and insights within the healthcare data.
+
+**[View the Python Analysis on Kaggle]([https://www.kaggle.com/code/danielsowah123/healthcare-analytics])**
+
+### 📊 Interactive Power BI Dashboard
+
+Explore the interactive **Healthcare Analytics Power BI Dashboard** to gain insights into patient demographics, medical conditions, admissions, billing, diagnoses, and other key healthcare performance indicators.
+
+Use the filters, slicers, and interactive visuals to explore trends, compare healthcare metrics, and identify patterns across different areas of the dataset.
+
+**[View the Interactive Power BI Dashboard]([your Power BI link])**
+
 
 ## 💡 Business Recommendations
 
@@ -160,7 +177,7 @@ Healthcare-Analytics/
 
 ## 🎯 Skills Demonstrated
 
-**Python • Pandas • Data Cleaning • Exploratory Data Analysis • SQL/Data Analytics • Power BI • DAX • Data Modelling • KPI Development • Data Visualization • Business Intelligence • Healthcare Analytics • Insight Generation**
+**Python • Pandas • Data Cleaning • Exploratory Data Analysis • Excel • Power BI • DAX • Data Modelling • KPI Development • Data Visualization • Business Intelligence • Healthcare Analytics • Insight Generation**
 
 ---
 
@@ -169,8 +186,15 @@ Healthcare-Analytics/
 This project demonstrates the ability to transform **raw healthcare data into a structured Business Intelligence solution**, combining technical data preparation with analytical thinking and business-focused visualization to support **operational, clinical, and financial decision-making**.
 
 
+### 📊 Data Source & Attribution
 
+The dataset used in this analysis was originally obtained from Kaggle and was created by **Prasad Patil**. According to the dataset author, it is a synthetic healthcare dataset designed to simulate real-world healthcare data for data science, machine learning, and data analysis purposes. It provides a practical resource for developing and demonstrating data manipulation and analytical skills within the healthcare domain.
 
+[View the original dataset on Kaggle](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
+
+## ⚠️ Disclaimer
+
+This project is intended for educational and portfolio purposes. The analysis demonstrates data analytics, visualization, and business-insight techniques and should not be interpreted as medical advice.
 
 
 
